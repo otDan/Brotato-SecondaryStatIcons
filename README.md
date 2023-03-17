@@ -12,12 +12,12 @@ Adds icons for secondary stats
 
 ## Installation
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2941387735">
-    <img align="right" src="https://badgen.net/https/ostaszewski29.npkn.net/py-steam-subscribers-request/2941387735?icon=https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" hspace="50"/>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2947926772">
+    <img align="right" src="https://badgen.net/https/ostaszewski29.npkn.net/py-steam-subscribers-request/2947926772?icon=https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" hspace="50"/>
 </a>
 
 - Steam Workshop: 
-  - https://steamcommunity.com/sharedfiles/filedetails/?id=2941387735
+  - https://steamcommunity.com/sharedfiles/filedetails/?id=2947926772
 
 <a href="https://thunderstore.io/c/brotato/p/otDan/ItemExplorer/">
     <img align="right" src="https://badgen.net/https/git-hub-badge-data.npkn.net/thunderstore-downloads-request/brotato/SecondaryStatIcons?icon=https://gcdn.thunderstore.io/static/ts/thunderstore-logomark-black.svg" hspace="50"/>
