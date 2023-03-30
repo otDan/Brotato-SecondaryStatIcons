@@ -6,7 +6,6 @@ var _icon
 
 func update_stat()->void:
 	.update_stat()
-	print("updating stat ", key)
 	if _icon == null:
 		_icon = preload("res://mods-unpacked/otDan-SecondaryStatIcons/ui/menus/shop/stat_icon.tscn").instance()
 		add_child(_icon)
